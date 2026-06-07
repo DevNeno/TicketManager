@@ -7,10 +7,10 @@
 
 ---
 
-### 🚀 Descripcion del proyecto
+### 🚀 Descripción del proyecto
 Una API REST que está diseñada para administrar tareas académicas y tickets de soporte técnico. El proyecto está enfocado principalmente en: garantizar un desacoplamiento estricto de capas mediante DTOs, persistir de forma segura los datos para ofrecer una API consistente y confiable.
 
-### ⚡ Como probar el proyecto
+### ⚡ Cómo probar el proyecto
 Paso 1:
 ```
 git clone https://github.com/DevNeno/TicketManager.git
